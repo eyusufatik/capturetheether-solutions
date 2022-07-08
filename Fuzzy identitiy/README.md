@@ -1,0 +1,3 @@
+The address I found is 0xCb754A7DFb2D65C61cBA91eAAA72bfDF1aa5aD64
+
+Nonce 24 produces the contract 0x05daA68755aF25F00Eb44cadF9dB8BAdc0dE5864
